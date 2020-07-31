@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on MeiTuan.
+- 👨‍💻 I am in charge of the promotion and maintenance of [vuepress-theme-reco](https://vuepress-theme-reco.recoluan.com).
+- 🏓 Hobby: code & ukulele
+
+
+> 招聘：长期美团前端岗内推，简历请发送 `recoluan@outlook.com`。
+
 <!--
 **recoluan/recoluan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
