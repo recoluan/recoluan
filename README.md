@@ -3,21 +3,15 @@
 - 🔭 I’m currently working on MeiTuan.
 - 👨‍💻 I am in charge of the promotion and maintenance of [vuepress-theme-reco](https://vuepress-theme-reco.recoluan.com). [Join us](https://www.notion.so/vuepress-reco-f8a7a55d18e042929931b612f170dbf4).
 - 🏓 Hobby: code & ukulele
+- 👋 My personal [blog site](https://www.recoluan.com)
 
+---
 
-> 招聘：长期美团前端岗内推，简历请发送 `recoluan@outlook.com`。
-
-<!--
-**recoluan/recoluan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=recoluan&show_icons=true&theme=calm&line_height=33&hide_border=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=recoluan&theme=calm&hide_border=true">
+</p>
+</details>
