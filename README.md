@@ -1,7 +1,7 @@
 ### Hi there, I'm [reco](https://www.recoluan.com)! 👋
 
 - 🔭 I’m currently working on [MeiTuan](https://about.meituan.com/en).
-- 👨‍💻 I am in charge of the promotion and maintenance of [vuepress-theme-reco](https://vuepress-theme-reco.recoluan.com). [Join us](https://www.notion.so/vuepress-reco-f8a7a55d18e042929931b612f170dbf4).
+- 👨‍💻 I am in charge of the promotion and maintenance of [vuepress-theme-reco](https://vuepress-theme-reco.recoluan.com).
 - 🏓 Hobby: code & ukulele
 - 👋 My personal [blog site](https://www.recoluan.com)
 
