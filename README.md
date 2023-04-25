@@ -1,3 +1,17 @@
-### A simple vuepress Blog & Doc theme
+### Hi there, I'm [reco](https://www.recoluan.com)! 👋
 
-vuepress-theme-reco 2.0 continues to adhere to the concise style, all functions are out of the box, the home page is assembled modularly, the style is written with tailwindcss, and Vite is used as the default compiler. You only need to be responsible for content creation, please leave the rest to me.
+- 🔭 I’m currently working on [MeiTuan](https://about.meituan.com/en).
+- 👨‍💻 I am in charge of the promotion and maintenance of [vuepress-theme-reco](https://vuepress-theme-reco.recoluan.com).
+- 🏓 Hobby: code & ukulele
+- 👋 My personal [blog site](https://www.recoluan.com)
+
+---
+
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=recoluan&show_icons=true&theme=calm&line_height=33&hide_border=true&count_private=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=recoluan&theme=calm&hide_border=true">
+</p>
+</details>
